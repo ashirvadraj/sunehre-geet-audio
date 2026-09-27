@@ -1,0 +1,8 @@
+{
+  "min_supported_version": 71,
+  "latest_version": 71,
+  "force_update": true,
+  "update_url": "https://github.com/ashirvadraj/sunehre-geet-audio/releases/download/v71.0/sunehre-geet-v71.0.apk",
+  "message_hindi": "सुनहरे गीत का नया वर्ज़न 71.0 उपलब्ध है! आतिफ़ असलम के सभी 18 सदाबहार गाने अब बिना किसी रुकावट के तुरंत प्ले होंगे। कृपया अभी अपडेट करें।",
+  "message_english": "Sunehre Geet v71.0 is available! All 18 Atif Aslam classic tracks now stream instantly without delay or buffering. Please update to continue."
+}
